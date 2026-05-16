@@ -1,0 +1,2 @@
+# Hospital-Analytics-and-Operational-Intelligence-Platform
+Healthcare operational intelligence platform built with MS-SQL Server and Power BI. This project designs a relational hospital database, generates synthetic healthcare data, applies analytical SQL queries, and visualizes insights related to patient retention, operational efficiency, healthcare resource utilization, and financial sustainability.
