@@ -10,3 +10,11 @@ we identified that the average number of appointments per patient in the last 6 
 To address these challenges, we focused on targeted reappointment for chronic disease patients, where repeated visits are essential and expected. Patient retention cost less than acquiring new ones and has a direct impact on patient flows and financial achievement. Our goal is to raise the average patient visit rate to three visits per six months, rearranging the higher operation efficiency with doctors, staffs, and supporting resources such as operation room, medicine and services.
 
 ![Business insight](/image/Slide7.jpeg)
+
+# 3️⃣ Power BI Dashboard
+
+* The Power BI dashboard was designed for hospital administrators and operational managers to monitor patient retention, appointment outcomes, physician-level operational performance, revenue trends, and healthcare resource utilization. The dashboard integrates analytical SQL query results into interactive visualizations to support data-driven healthcare management and operational decision-making.
+
+* Key operational metrics include appointment-per-patient ratio, cancellation rates, room occupancy, physician reappointment performance, and departmental operational trends. The analysis identified low patient return activity and imbalance in physician-level operational efficiency, where only a small number of doctors demonstrated meaningful reappointment rates.
+
+* The primary KPI objective is to increase the appointment-per-patient ratio to 3.0 within six months by improving patient retention, reducing cancellation rates, and optimizing healthcare operational efficiency.
