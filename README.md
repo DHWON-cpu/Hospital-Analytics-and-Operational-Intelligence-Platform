@@ -18,3 +18,5 @@ To address these challenges, we focused on targeted reappointment for chronic di
 * Key operational metrics include appointment-per-patient ratio, cancellation rates, room occupancy, physician reappointment performance, and departmental operational trends. The analysis identified low patient return activity and imbalance in physician-level operational efficiency, where only a small number of doctors demonstrated meaningful reappointment rates.
 
 * The primary KPI objective is to increase the appointment-per-patient ratio to 3.0 within six months by improving patient retention, reducing cancellation rates, and optimizing healthcare operational efficiency.
+
+![Power BI dashboard](2nd Dashboard-1.jpg)
