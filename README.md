@@ -19,4 +19,6 @@ To address these challenges, we focused on targeted reappointment for chronic di
 
 * The primary KPI objective is to increase the appointment-per-patient ratio to 3.0 within six months by improving patient retention, reducing cancellation rates, and optimizing healthcare operational efficiency.
 
-![Power BI dashboard](2nd Dashboard-1.jpg)
+![Power BI dashboard](/powerBI/2nd Dashboard-1.jpg)
+
+
