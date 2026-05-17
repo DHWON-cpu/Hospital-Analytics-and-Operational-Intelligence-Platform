@@ -19,6 +19,15 @@ To address these challenges, we focused on targeted reappointment for chronic di
 
 * The primary KPI objective is to increase the appointment-per-patient ratio to 3.0 within six months by improving patient retention, reducing cancellation rates, and optimizing healthcare operational efficiency.
 
-![Power BI dashboard](/powerBI/2nd Dashboard-1.jpg)
+![Business Insight](powerBI/2nd%20Dashboard-1.jpg)
+
+
+![Business Insight](powerBI/2nd%20Dashboard-2.jpg)
+
+
+# 4️⃣ Conclusion
+* Designed and implemented a relational hospital database system using SQL Server, including data population, security configuration, analytical SQL queries, and Power BI visualization.
+* Analyzed operational efficiency, patient retention, and physician performance using data-driven operational intelligence and business analytics.
+* Applied role-based access control based on the principle of least privilege and identified future improvements such as audit logging, workflow integration, and schedule-based physician management.
 
 
