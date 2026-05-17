@@ -9,3 +9,4 @@ we identified that the average number of appointments per patient in the last 6 
 
 To address these challenges, we focused on targeted reappointment for chronic disease patients, where repeated visits are essential and expected. Patient retention cost less than acquiring new ones and has a direct impact on patient flows and financial achievement. Our goal is to raise the average patient visit rate to three visits per six months, rearranging the higher operation efficiency with doctors, staffs, and supporting resources such as operation room, medicine and services.
 
+![Business insight](/image/Slide7.jpeg)
